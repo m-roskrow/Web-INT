@@ -1,0 +1,1 @@
+To run the front-end server, open a console with Node.js installed and type "npm start"
